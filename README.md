@@ -1,5 +1,5 @@
 <h2 align="center">
-    <strong>Pythonic</strong>
+    <strong>buraak</strong>
 </h2>
 <p align="center">
   If you like my work consider joining <strong> <a href="https://discord.com/javascript">my Discord server</a></strong>
