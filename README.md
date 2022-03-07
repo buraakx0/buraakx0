@@ -2,7 +2,7 @@
     <strong>buraak</strong>
 </h2>
 <p align="center">
-  If you like my work consider joining <strong> <a href="https://discord.com/javascript">my Discord server</a></strong>
+
 <br>
 <br>
 <a href="https://github.com/ZeroDiscord/">
@@ -14,17 +14,17 @@
 &nbsp;
 <p align="center">
 <br>
-<a href="https://discord.com/users/603948445362946084">
-        <img src="https://lanyard.cnrad.dev/api/636573504598442084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+<a href="https://discord.com/users/795381387771379753">
+        <img src="https://lanyard.cnrad.dev/api/795381387771379753?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/nightlunar/">
+    <a href="https://github.com/buraakx0/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/636573504598442084">
+    <a href="https://discord.com/users/795381387771379753">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
