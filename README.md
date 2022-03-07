@@ -5,8 +5,8 @@
 
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
-        <img src="https://komarev.com/ghpvc/?username=nightlunar&color=red" />
+<a href="https://github.com/buraakx0/">
+        <img src="https://komarev.com/ghpvc/?username=buraakx0&color=red" />
   </a> 
 <br>
 
