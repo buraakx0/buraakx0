@@ -29,8 +29,7 @@
     </a>
     &nbsp;
     &nbsp;
-    <a href="https://www.youtube.com/c/pythonic">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+    
     </a>
     
 </p>
