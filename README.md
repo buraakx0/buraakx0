@@ -26,7 +26,7 @@
     &nbsp;
     <a href="https://discord.com/users/795381387771379753">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
+    
     &nbsp;
     &nbsp;
     
